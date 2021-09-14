@@ -1,5 +1,5 @@
 # IDEA
 .idea
-.gitignore
+
 node_modules
 dist
